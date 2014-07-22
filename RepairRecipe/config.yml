@@ -1,0 +1,10 @@
+allow_over_repair: false
+keep_enchantments_chance: 100
+keep_enchantments_chance_groups: {}
+enchant_multiplier: 100
+enchant_multiplier_groups: {}
+discount: 10
+discount_groups: {}
+use_highest_enchant: false
+special_enchant_multiplier: {}
+disable_standard_repair: false
