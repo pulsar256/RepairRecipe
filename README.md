@@ -1,13 +1,13 @@
 # RepairRecipe #
 
-[![Build Status](https://drone.io/github.com/attrib/RepairRecipe/status.png)](https://drone.io/github.com/attrib/RepairRecipe/latest)
-
 See also Bukkit plugin page: http://dev.bukkit.org/server-mods/repairrecipe/
 
 Version 0.5.0
 
-Compatible Bukkit Version: 1.7.10
-Updated by Supermaxman from Luxsoft
+* Compatible Bukkit / Spigot Version: 1.7.10
+* Updated by Supermaxman from Luxsoft
+* Changes added to Luxsoft release: Restored and updated Maven-Build files, removed Eclipse dependency.
+
 
 For older Version see Bukkit Page.
 
