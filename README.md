@@ -2,11 +2,12 @@
 
 See also Bukkit plugin page: http://dev.bukkit.org/server-mods/repairrecipe/
 
-Version 0.5.0
+Version 1.7.10-0.5.0
 
-* Compatible Bukkit / Spigot Version: 1.7.10
-* Updated by Supermaxman from Luxsoft
-* Changes added to Luxsoft release: Restored and updated Maven-Build files, removed Eclipse dependency.
+Changes 2014-07
+
+* Ported to Bukkit / Spigot 1.7.10 by Supermaxman from Luxsoft
+* Restored and updated Maven-Build files, removed Eclipse dependency.
 
 
 For older Version see Bukkit Page.
